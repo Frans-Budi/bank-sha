@@ -1,16 +1,16 @@
 [![Demo Aplication](https://github.com/Frans-Budi/Frans-Budi/blob/main/Thumbnail/Thumb-EWallet.jpg)](https://www.youtube.com/watch?v=WHsOHWSyc-U)
 
-## Aplikasi E-Wallet
+## E-Wallet Application
 
 This is an E-Wallet application. With this application users can top up balances, transfer balances, and buy a data package.
 
-## Teknologi yang digunakan
+## Technology Used
 
 1. Dart - Flutter
 2. PHP - Laravel
 3. MySQL
 
-## Fitur-fitur Aplikasi
+## Application Features
 
 1. Authentication - Login
 2. Authentication - Register
